@@ -78,15 +78,15 @@
 <p align="center">
 <p align="center">
 
-  <a href="https://linkedin.com/in/johndoe" target="_blank">
+  <a href="https://linkedin.com/in/defiguereom" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" width="50"/>
   </a>
 
-  <a href="mailto:johndoe@gmail.com">
+  <a href="mailto:daniel182730@gmail.com">
     <img align="center" src="https://skillicons.dev/icons?i=gmail" height="50" width="50"/>
   </a>
 
-  <a href="https://github.com/johndoe" target="_blank">
+  <a href="https://github.com/defiguereom-source" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=github" height="50" width="50"/>
   </a>
 
@@ -96,6 +96,6 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=[TU-USERNAME]&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=defiguereom-source&icon=3&color=6)](https://visitcount.itsvg.in)
 
 </div>
